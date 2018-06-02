@@ -1,0 +1,9 @@
+# Type Available : mysql or sqlite
+
+database:
+  type: 'sqlite'
+  hostname: 'localhost'
+  port: '3306'
+  database: 'database'
+  user: 'user'
+  password: 'password'

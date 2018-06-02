@@ -1,0 +1,10 @@
+name: Company
+author: onenrico
+version: 1.0
+main: me.onenrico.company.main.Core
+description: Company Plugin !
+softdepend: [Vault, PlaceholderAPI]
+commands:
+  company:
+    description: The main command of company plugin
+    aliases: [c,comp]

@@ -1,0 +1,9 @@
+pluginPrefix: "&8&l<&6Company&8&l> &e"
+locales: EN
+
+cost: 10000
+second_to_pay: 120
+role:
+  employee: "&f"
+  manager: "&a*"
+  ceo: "&c**"
